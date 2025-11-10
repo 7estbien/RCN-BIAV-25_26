@@ -1,0 +1,1141 @@
+ItemID,Category,Subcategory,CO2_Factor
+1,Steel,Plate,3.009
+2,Steel,Plate,2.705
+3,Steel,Plate,2.112
+4,Steel,Plate,2.905
+5,Steel,Plate,3.012
+6,Steel,Plate,2.231
+7,Steel,Plate,3.094
+8,Steel,Plate,2.491
+9,Steel,Plate,2.684
+10,Steel,Plate,3.18
+11,Steel,Plate,2.37
+12,Steel,Plate,2.957
+13,Steel,Plate,2.314
+14,Steel,Plate,2.939
+15,Steel,Plate,2.681
+16,Steel,Plate,2.181
+17,Steel,Plate,2.438
+18,Steel,Plate,2.313
+19,Steel,Plate,2.002
+20,Steel,Plate,1.939
+21,Steel,Plate,2.35
+22,Steel,Plate,1.925
+23,Steel,Plate,2.115
+24,Steel,Plate,2.843
+25,Steel,Plate,2.821
+26,Steel,Plate,2.86
+27,Steel,Plate,2.312
+28,Steel,Plate,3.057
+29,Steel,Plate,2.672
+30,Steel,Plate,2.064
+31,Steel,Plate,2.087
+32,Steel,Plate,2.801
+33,Steel,Plate,2.125
+34,Steel,Plate,2.559
+35,Steel,Plate,3.189
+36,Steel,Plate,1.905
+37,Steel,Plate,1.922
+38,Steel,Plate,3.191
+39,Steel,Plate,2.66
+40,Steel,Plate,2.065
+41,Steel,Plate,3.066
+42,Steel,Plate,3.044
+43,Steel,Plate,2.597
+44,Steel,Plate,2.708
+45,Steel,Plate,2.255
+46,Steel,Plate,1.966
+47,Steel,Plate,2.673
+48,Steel,Beam,2.283
+49,Steel,Beam,2.763
+50,Steel,Beam,2.987
+51,Steel,Beam,1.924
+52,Steel,Beam,2.674
+53,Steel,Beam,2.201
+54,Steel,Beam,3.036
+55,Steel,Beam,2.23
+56,Steel,Beam,2.694
+57,Steel,Beam,2.62
+58,Steel,Beam,2.415
+59,Steel,Beam,2.781
+60,Steel,Beam,2.844
+61,Steel,Beam,2.637
+62,Steel,Beam,2.886
+63,Steel,Beam,3.178
+64,Steel,Beam,2.445
+65,Steel,Beam,2.569
+66,Steel,Beam,1.916
+67,Steel,Beam,2.935
+68,Steel,Beam,2.576
+69,Steel,Beam,2.43
+70,Steel,Beam,2.022
+71,Steel,Beam,3.057
+72,Steel,Beam,2.414
+73,Steel,Beam,2.787
+74,Steel,Beam,2.094
+75,Steel,Beam,3.15
+76,Steel,Beam,2.132
+77,Steel,Beam,2.159
+78,Steel,Beam,3.017
+79,Steel,Beam,3.086
+80,Steel,Beam,2.176
+81,Steel,Beam,2.511
+82,Steel,Beam,2.854
+83,Steel,Tube,2.393
+84,Steel,Tube,2.572
+85,Steel,Tube,2.864
+86,Steel,Tube,2.85
+87,Steel,Tube,2.918
+88,Steel,Tube,2.641
+89,Steel,Tube,2.036
+90,Steel,Tube,3.075
+91,Steel,Tube,3.025
+92,Steel,Tube,2.938
+93,Steel,Tube,2.03
+94,Steel,Tube,2.166
+95,Steel,Tube,2.867
+96,Steel,Tube,1.93
+97,Steel,Tube,3.173
+98,Steel,Tube,2.39
+99,Steel,Tube,2.835
+100,Steel,Tube,3.054
+101,Steel,Tube,2.413
+102,Steel,Tube,2.315
+103,Steel,Tube,2.691
+104,Steel,Tube,2.655
+105,Steel,Tube,2.432
+106,Steel,Tube,2.682
+107,Steel,Tube,3.116
+108,Steel,Tube,2.508
+109,Steel,Tube,2.156
+110,Steel,Tube,2.39
+111,Steel,Tube,2.412
+112,Steel,Tube,2.07
+113,Steel,Tube,2.112
+114,Steel,Tube,2.79
+115,Steel,Tube,2.341
+116,Steel,Tube,3.141
+117,Steel,Tube,2.217
+118,Steel,Tube,2.029
+119,Steel,Tube,2.88
+120,Steel,Tube,3.045
+121,Steel,Tube,2.262
+122,Steel,Tube,2.163
+123,Steel,Tube,2.141
+124,Steel,Tube,2.579
+125,Steel,Tube,2.509
+126,Steel,Tube,2.237
+127,Steel,Tube,1.959
+128,Steel,Tube,2.526
+129,Steel,Tube,3.147
+130,Steel,Tube,2.748
+131,Steel,Tube,2.544
+132,Steel,Tube,2.044
+133,Steel,Tube,2.228
+134,Steel,Rod,2.283
+135,Steel,Rod,2.894
+136,Steel,Rod,3.04
+137,Steel,Rod,3.072
+138,Steel,Rod,3.18
+139,Steel,Rod,3.177
+140,Steel,Rod,3.139
+141,Steel,Rod,1.993
+142,Steel,Rod,2.079
+143,Steel,Rod,2.296
+144,Steel,Rod,2.619
+145,Steel,Rod,2.026
+146,Steel,Rod,3.0
+147,Steel,Rod,2.702
+148,Steel,Rod,2.605
+149,Steel,Rod,2.115
+150,Steel,Rod,2.229
+151,Steel,Rod,2.108
+152,Steel,Rod,3.008
+153,Steel,Rod,2.659
+154,Steel,Rod,2.856
+155,Steel,Rod,2.285
+156,Steel,Rod,2.383
+157,Steel,Rod,2.426
+158,Steel,Rod,2.888
+159,Steel,Rod,2.904
+160,Steel,Rod,2.169
+161,Steel,Rod,3.124
+162,Steel,Rod,2.057
+163,Steel,Rod,3.065
+164,Steel,Rod,2.031
+165,Steel,Rod,2.244
+166,Steel,Rod,3.0
+167,Steel,Rod,2.133
+168,Steel,Rod,2.438
+169,Steel,Rod,2.485
+170,Steel,Rod,2.219
+171,Steel,Rod,2.823
+172,Steel,Rod,3.007
+173,Steel,Rod,3.037
+174,Steel,Rod,2.341
+175,Steel,Rod,2.59
+176,Steel,Rod,2.223
+177,Steel,Rod,2.218
+178,Steel,Rod,2.11
+179,Steel,Rod,3.122
+180,Steel,Rod,3.054
+181,Steel,Rod,2.911
+182,Steel,Rod,2.573
+183,Steel,Rod,2.538
+184,Steel,Rod,2.589
+185,Steel,Rod,2.598
+186,Steel,Rod,2.465
+187,Steel,Rod,2.071
+188,Steel,Rod,2.063
+189,Steel,Rod,3.138
+190,Steel,Coil,3.139
+191,Steel,Coil,2.113
+192,Steel,Coil,2.621
+193,Steel,Coil,2.17
+194,Steel,Coil,2.229
+195,Steel,Coil,1.939
+196,Steel,Coil,2.055
+197,Steel,Coil,3.092
+198,Steel,Coil,2.318
+199,Steel,Coil,2.691
+200,Steel,Coil,2.505
+201,Steel,Coil,2.421
+202,Steel,Coil,2.591
+203,Steel,Coil,2.143
+204,Steel,Coil,3.185
+205,Steel,Coil,2.964
+206,Steel,Coil,2.864
+207,Steel,Coil,2.509
+208,Steel,Coil,2.099
+209,Steel,Coil,3.097
+210,Steel,Coil,2.344
+211,Steel,Coil,1.965
+212,Steel,Coil,2.345
+213,Steel,Coil,2.933
+214,Steel,Coil,2.71
+215,Steel,Coil,2.876
+216,Steel,Coil,2.932
+217,Steel,Coil,2.176
+218,Steel,Coil,3.101
+219,Steel,Coil,2.469
+220,Steel,Coil,2.731
+221,Steel,Coil,1.903
+222,Steel,Coil,3.191
+223,Steel,Coil,2.265
+224,Steel,Coil,1.981
+225,Steel,Coil,2.496
+226,Steel,Coil,2.068
+227,Drivetrain,Gear,0.476
+228,Drivetrain,Gear,0.716
+229,Drivetrain,Gear,0.596
+230,Drivetrain,Gear,0.861
+231,Drivetrain,Gear,0.56
+232,Drivetrain,Gear,0.763
+233,Drivetrain,Gear,0.631
+234,Drivetrain,Gear,0.73
+235,Drivetrain,Gear,0.7
+236,Drivetrain,Gear,0.636
+237,Drivetrain,Gear,0.875
+238,Drivetrain,Gear,0.571
+239,Drivetrain,Gear,0.489
+240,Drivetrain,Gear,0.739
+241,Drivetrain,Gear,0.823
+242,Drivetrain,Gear,0.42
+243,Drivetrain,Gear,0.625
+244,Drivetrain,Gear,0.846
+245,Drivetrain,Gear,0.775
+246,Drivetrain,Gear,0.896
+247,Drivetrain,Gear,0.666
+248,Drivetrain,Gear,0.73
+249,Drivetrain,Gear,0.551
+250,Drivetrain,Gear,0.874
+251,Drivetrain,Gear,0.583
+252,Drivetrain,Gear,0.769
+253,Drivetrain,Gear,0.602
+254,Drivetrain,Gear,0.681
+255,Drivetrain,Gear,0.76
+256,Drivetrain,Gear,0.654
+257,Drivetrain,Gear,0.854
+258,Drivetrain,Gear,0.61
+259,Drivetrain,Gear,0.724
+260,Drivetrain,Gear,0.571
+261,Drivetrain,Gear,0.604
+262,Drivetrain,Gear,0.62
+263,Drivetrain,Gear,0.463
+264,Drivetrain,Gear,0.446
+265,Drivetrain,Gear,0.734
+266,Drivetrain,Gear,0.728
+267,Drivetrain,Gear,0.731
+268,Drivetrain,Gear,0.41
+269,Drivetrain,Gear,0.563
+270,Drivetrain,Gear,0.499
+271,Drivetrain,Gear,0.789
+272,Drivetrain,Gear,0.83
+273,Drivetrain,Gear,0.523
+274,Drivetrain,Shaft,0.465
+275,Drivetrain,Shaft,0.538
+276,Drivetrain,Shaft,0.469
+277,Drivetrain,Shaft,0.542
+278,Drivetrain,Shaft,0.737
+279,Drivetrain,Shaft,0.855
+280,Drivetrain,Shaft,0.501
+281,Drivetrain,Shaft,0.671
+282,Drivetrain,Shaft,0.751
+283,Drivetrain,Shaft,0.876
+284,Drivetrain,Shaft,0.705
+285,Drivetrain,Shaft,0.528
+286,Drivetrain,Shaft,0.713
+287,Drivetrain,Shaft,0.56
+288,Drivetrain,Shaft,0.888
+289,Drivetrain,Shaft,0.6
+290,Drivetrain,Shaft,0.743
+291,Drivetrain,Shaft,0.412
+292,Drivetrain,Shaft,0.6
+293,Drivetrain,Shaft,0.838
+294,Drivetrain,Shaft,0.705
+295,Drivetrain,Shaft,0.622
+296,Drivetrain,Shaft,0.868
+297,Drivetrain,Shaft,0.827
+298,Drivetrain,Shaft,0.561
+299,Drivetrain,Shaft,0.672
+300,Drivetrain,Shaft,0.645
+301,Drivetrain,Shaft,0.716
+302,Drivetrain,Shaft,0.567
+303,Drivetrain,Shaft,0.522
+304,Drivetrain,Shaft,0.856
+305,Drivetrain,Shaft,0.862
+306,Drivetrain,Shaft,0.822
+307,Drivetrain,Shaft,0.889
+308,Drivetrain,Shaft,0.772
+309,Drivetrain,Shaft,0.782
+310,Drivetrain,Shaft,0.781
+311,Drivetrain,Shaft,0.64
+312,Drivetrain,Shaft,0.628
+313,Drivetrain,Shaft,0.52
+314,Drivetrain,Shaft,0.722
+315,Drivetrain,Shaft,0.545
+316,Drivetrain,Shaft,0.529
+317,Drivetrain,Shaft,0.693
+318,Drivetrain,Shaft,0.605
+319,Drivetrain,Shaft,0.509
+320,Drivetrain,Shaft,0.808
+321,Drivetrain,Shaft,0.83
+322,Drivetrain,Shaft,0.484
+323,Drivetrain,Shaft,0.404
+324,Drivetrain,Shaft,0.568
+325,Drivetrain,Shaft,0.799
+326,Drivetrain,Shaft,0.82
+327,Drivetrain,Shaft,0.469
+328,Drivetrain,Shaft,0.787
+329,Drivetrain,Shaft,0.458
+330,Drivetrain,Shaft,0.595
+331,Drivetrain,Bearing,0.899
+332,Drivetrain,Bearing,0.496
+333,Drivetrain,Bearing,0.477
+334,Drivetrain,Bearing,0.611
+335,Drivetrain,Bearing,0.71
+336,Drivetrain,Bearing,0.866
+337,Drivetrain,Bearing,0.89
+338,Drivetrain,Bearing,0.435
+339,Drivetrain,Bearing,0.469
+340,Drivetrain,Bearing,0.795
+341,Drivetrain,Bearing,0.535
+342,Drivetrain,Bearing,0.842
+343,Drivetrain,Bearing,0.732
+344,Drivetrain,Bearing,0.456
+345,Drivetrain,Bearing,0.816
+346,Drivetrain,Bearing,0.488
+347,Drivetrain,Bearing,0.612
+348,Drivetrain,Bearing,0.676
+349,Drivetrain,Bearing,0.65
+350,Drivetrain,Bearing,0.743
+351,Drivetrain,Bearing,0.726
+352,Drivetrain,Bearing,0.896
+353,Drivetrain,Bearing,0.9
+354,Drivetrain,Bearing,0.658
+355,Drivetrain,Bearing,0.448
+356,Drivetrain,Bearing,0.764
+357,Drivetrain,Bearing,0.888
+358,Drivetrain,Bearing,0.559
+359,Drivetrain,Bearing,0.631
+360,Drivetrain,Bearing,0.612
+361,Drivetrain,Bearing,0.426
+362,Drivetrain,Bearing,0.736
+363,Drivetrain,Bearing,0.577
+364,Drivetrain,Bearing,0.794
+365,Drivetrain,Bearing,0.816
+366,Drivetrain,Bearing,0.811
+367,Drivetrain,Bearing,0.608
+368,Drivetrain,Bearing,0.561
+369,Drivetrain,Bearing,0.774
+370,Drivetrain,Bearing,0.801
+371,Drivetrain,Bearing,0.646
+372,Drivetrain,Bearing,0.847
+373,Drivetrain,Bearing,0.472
+374,Drivetrain,Bearing,0.84
+375,Drivetrain,Bearing,0.448
+376,Drivetrain,Bearing,0.477
+377,Drivetrain,Bearing,0.667
+378,Drivetrain,Bearing,0.434
+379,Drivetrain,Bearing,0.426
+380,Drivetrain,Bearing,0.4
+381,Drivetrain,Bearing,0.618
+382,Drivetrain,Housing,0.417
+383,Drivetrain,Housing,0.726
+384,Drivetrain,Housing,0.812
+385,Drivetrain,Housing,0.484
+386,Drivetrain,Housing,0.473
+387,Drivetrain,Housing,0.83
+388,Drivetrain,Housing,0.812
+389,Drivetrain,Housing,0.669
+390,Drivetrain,Housing,0.81
+391,Drivetrain,Housing,0.446
+392,Drivetrain,Housing,0.597
+393,Drivetrain,Housing,0.769
+394,Drivetrain,Housing,0.529
+395,Drivetrain,Housing,0.776
+396,Drivetrain,Housing,0.652
+397,Drivetrain,Housing,0.775
+398,Drivetrain,Housing,0.632
+399,Drivetrain,Housing,0.584
+400,Drivetrain,Housing,0.51
+401,Drivetrain,Housing,0.504
+402,Drivetrain,Housing,0.776
+403,Drivetrain,Housing,0.459
+404,Drivetrain,Housing,0.443
+405,Drivetrain,Housing,0.488
+406,Drivetrain,Housing,0.488
+407,Drivetrain,Housing,0.812
+408,Drivetrain,Housing,0.599
+409,Drivetrain,Housing,0.895
+410,Drivetrain,Housing,0.469
+411,Drivetrain,Housing,0.727
+412,Drivetrain,Housing,0.624
+413,Drivetrain,Housing,0.596
+414,Drivetrain,Housing,0.838
+415,Drivetrain,Housing,0.888
+416,Drivetrain,Housing,0.836
+417,Drivetrain,Housing,0.496
+418,Drivetrain,Housing,0.51
+419,Drivetrain,Housing,0.728
+420,Drivetrain,Housing,0.545
+421,Drivetrain,Housing,0.767
+422,Drivetrain,Housing,0.683
+423,Drivetrain,Housing,0.675
+424,Drivetrain,Housing,0.814
+425,Drivetrain,Housing,0.755
+426,Drivetrain,Housing,0.413
+427,Drivetrain,Housing,0.425
+428,Drivetrain,Housing,0.701
+429,Drivetrain,Housing,0.643
+430,Drivetrain,Housing,0.53
+431,Drivetrain,Housing,0.609
+432,Drivetrain,Housing,0.779
+433,Drivetrain,Housing,0.813
+434,Drivetrain,Housing,0.681
+435,Drivetrain,Housing,0.593
+436,Drivetrain,Housing,0.535
+437,Drivetrain,Housing,0.661
+438,Drivetrain,Coupling,0.557
+439,Drivetrain,Coupling,0.682
+440,Drivetrain,Coupling,0.738
+441,Drivetrain,Coupling,0.433
+442,Drivetrain,Coupling,0.401
+443,Drivetrain,Coupling,0.506
+444,Drivetrain,Coupling,0.847
+445,Drivetrain,Coupling,0.723
+446,Drivetrain,Coupling,0.486
+447,Drivetrain,Coupling,0.845
+448,Drivetrain,Coupling,0.635
+449,Drivetrain,Coupling,0.638
+450,Drivetrain,Coupling,0.868
+451,Drivetrain,Coupling,0.43
+452,Drivetrain,Coupling,0.508
+453,Drivetrain,Coupling,0.693
+454,Drivetrain,Coupling,0.498
+455,Drivetrain,Coupling,0.74
+456,Drivetrain,Coupling,0.507
+457,Drivetrain,Coupling,0.45
+458,Drivetrain,Coupling,0.503
+459,Drivetrain,Coupling,0.611
+460,Drivetrain,Coupling,0.488
+461,Drivetrain,Coupling,0.467
+462,Drivetrain,Coupling,0.83
+463,Drivetrain,Coupling,0.56
+464,Drivetrain,Coupling,0.58
+465,Drivetrain,Coupling,0.428
+466,Drivetrain,Coupling,0.579
+467,Drivetrain,Coupling,0.532
+468,Drivetrain,Coupling,0.705
+469,Drivetrain,Coupling,0.503
+470,Drivetrain,Coupling,0.844
+471,Drivetrain,Coupling,0.865
+472,Drivetrain,Coupling,0.45
+473,Drivetrain,Coupling,0.454
+474,Drivetrain,Coupling,0.458
+475,Drivetrain,Coupling,0.71
+476,Drivetrain,Coupling,0.461
+477,Drivetrain,Coupling,0.826
+478,Drivetrain,Coupling,0.777
+479,Drivetrain,Coupling,0.81
+480,Drivetrain,Coupling,0.663
+481,Drivetrain,Coupling,0.898
+482,Drivetrain,Coupling,0.422
+483,Drivetrain,Coupling,0.601
+484,Drivetrain,Coupling,0.562
+485,Drivetrain,Coupling,0.874
+486,Drivetrain,Coupling,0.688
+487,Drivetrain,Coupling,0.803
+488,Drivetrain,Coupling,0.485
+489,Drivetrain,Coupling,0.889
+490,Drivetrain,Coupling,0.649
+491,Drivetrain,Coupling,0.647
+492,Fabrication,Welded Frame,1.143
+493,Fabrication,Welded Frame,1.158
+494,Fabrication,Welded Frame,1.326
+495,Fabrication,Welded Frame,0.915
+496,Fabrication,Welded Frame,1.089
+497,Fabrication,Welded Frame,0.974
+498,Fabrication,Welded Frame,0.893
+499,Fabrication,Welded Frame,1.58
+500,Fabrication,Welded Frame,1.33
+501,Fabrication,Welded Frame,1.123
+502,Fabrication,Welded Frame,1.168
+503,Fabrication,Welded Frame,1.188
+504,Fabrication,Welded Frame,1.37
+505,Fabrication,Welded Frame,1.634
+506,Fabrication,Welded Frame,1.64
+507,Fabrication,Welded Frame,1.152
+508,Fabrication,Welded Frame,1.096
+509,Fabrication,Welded Frame,1.206
+510,Fabrication,Welded Frame,1.311
+511,Fabrication,Welded Frame,1.216
+512,Fabrication,Welded Frame,1.393
+513,Fabrication,Welded Frame,1.299
+514,Fabrication,Welded Frame,1.089
+515,Fabrication,Welded Frame,1.111
+516,Fabrication,Welded Frame,1.141
+517,Fabrication,Welded Frame,0.885
+518,Fabrication,Welded Frame,0.949
+519,Fabrication,Welded Frame,1.451
+520,Fabrication,Welded Frame,1.15
+521,Fabrication,Welded Frame,0.993
+522,Fabrication,Welded Frame,1.306
+523,Fabrication,Welded Frame,1.48
+524,Fabrication,Welded Frame,1.032
+525,Fabrication,Welded Frame,1.544
+526,Fabrication,Welded Frame,1.635
+527,Fabrication,Welded Frame,1.338
+528,Fabrication,Welded Frame,1.402
+529,Fabrication,Welded Frame,0.847
+530,Fabrication,Welded Frame,1.651
+531,Fabrication,Welded Frame,1.153
+532,Fabrication,Welded Frame,1.632
+533,Fabrication,Welded Frame,1.321
+534,Fabrication,Bracket,0.804
+535,Fabrication,Bracket,0.835
+536,Fabrication,Bracket,1.412
+537,Fabrication,Bracket,1.306
+538,Fabrication,Bracket,0.824
+539,Fabrication,Bracket,1.469
+540,Fabrication,Bracket,1.567
+541,Fabrication,Bracket,1.247
+542,Fabrication,Bracket,1.219
+543,Fabrication,Bracket,0.805
+544,Fabrication,Bracket,1.508
+545,Fabrication,Bracket,1.098
+546,Fabrication,Bracket,1.591
+547,Fabrication,Bracket,1.136
+548,Fabrication,Bracket,1.309
+549,Fabrication,Bracket,1.043
+550,Fabrication,Bracket,0.945
+551,Fabrication,Bracket,1.497
+552,Fabrication,Bracket,1.247
+553,Fabrication,Bracket,1.283
+554,Fabrication,Bracket,1.669
+555,Fabrication,Bracket,1.667
+556,Fabrication,Bracket,1.57
+557,Fabrication,Bracket,0.969
+558,Fabrication,Bracket,1.335
+559,Fabrication,Bracket,1.59
+560,Fabrication,Bracket,1.137
+561,Fabrication,Bracket,0.891
+562,Fabrication,Bracket,1.53
+563,Fabrication,Bracket,1.234
+564,Fabrication,Bracket,1.308
+565,Fabrication,Bracket,1.684
+566,Fabrication,Bracket,1.346
+567,Fabrication,Bracket,1.182
+568,Fabrication,Bracket,1.133
+569,Fabrication,Bracket,1.176
+570,Fabrication,Bracket,0.907
+571,Fabrication,Bracket,1.515
+572,Fabrication,Bracket,1.554
+573,Fabrication,Bracket,1.056
+574,Fabrication,Bracket,1.073
+575,Fabrication,Bracket,1.587
+576,Fabrication,Bracket,0.822
+577,Fabrication,Bracket,1.268
+578,Fabrication,Bracket,1.217
+579,Fabrication,Bracket,1.421
+580,Fabrication,Bracket,0.947
+581,Fabrication,Bracket,1.401
+582,Fabrication,Bracket,1.139
+583,Fabrication,Bracket,1.357
+584,Fabrication,Bracket,0.836
+585,Fabrication,Bracket,1.216
+586,Fabrication,Bracket,1.27
+587,Fabrication,Bracket,0.993
+588,Fabrication,Bracket,0.926
+589,Fabrication,Bracket,0.97
+590,Fabrication,Bracket,1.11
+591,Fabrication,Bracket,0.887
+592,Fabrication,Bracket,1.653
+593,Fabrication,Panel,1.528
+594,Fabrication,Panel,1.677
+595,Fabrication,Panel,0.873
+596,Fabrication,Panel,1.387
+597,Fabrication,Panel,1.584
+598,Fabrication,Panel,1.371
+599,Fabrication,Panel,1.186
+600,Fabrication,Panel,1.188
+601,Fabrication,Panel,0.832
+602,Fabrication,Panel,1.281
+603,Fabrication,Panel,1.694
+604,Fabrication,Panel,1.663
+605,Fabrication,Panel,0.836
+606,Fabrication,Panel,1.435
+607,Fabrication,Panel,1.072
+608,Fabrication,Panel,1.613
+609,Fabrication,Panel,0.841
+610,Fabrication,Panel,1.642
+611,Fabrication,Panel,1.554
+612,Fabrication,Panel,0.906
+613,Fabrication,Panel,0.854
+614,Fabrication,Panel,1.551
+615,Fabrication,Panel,0.94
+616,Fabrication,Panel,1.281
+617,Fabrication,Panel,1.624
+618,Fabrication,Panel,1.311
+619,Fabrication,Panel,1.158
+620,Fabrication,Panel,1.201
+621,Fabrication,Panel,0.857
+622,Fabrication,Panel,1.672
+623,Fabrication,Panel,1.08
+624,Fabrication,Panel,0.97
+625,Fabrication,Panel,1.057
+626,Fabrication,Panel,1.668
+627,Fabrication,Panel,0.885
+628,Fabrication,Panel,1.581
+629,Fabrication,Panel,1.437
+630,Fabrication,Panel,1.547
+631,Fabrication,Panel,1.678
+632,Fabrication,Assembly,1.558
+633,Fabrication,Assembly,1.649
+634,Fabrication,Assembly,0.914
+635,Fabrication,Assembly,1.516
+636,Fabrication,Assembly,1.291
+637,Fabrication,Assembly,1.289
+638,Fabrication,Assembly,1.609
+639,Fabrication,Assembly,1.675
+640,Fabrication,Assembly,1.434
+641,Fabrication,Assembly,1.235
+642,Fabrication,Assembly,1.211
+643,Fabrication,Assembly,1.148
+644,Fabrication,Assembly,1.125
+645,Fabrication,Assembly,1.152
+646,Fabrication,Assembly,0.881
+647,Fabrication,Assembly,0.87
+648,Fabrication,Assembly,1.502
+649,Fabrication,Assembly,1.201
+650,Fabrication,Assembly,1.638
+651,Fabrication,Assembly,1.351
+652,Fabrication,Assembly,0.832
+653,Fabrication,Assembly,0.942
+654,Fabrication,Assembly,0.985
+655,Fabrication,Assembly,1.678
+656,Fabrication,Assembly,0.997
+657,Fabrication,Assembly,1.264
+658,Fabrication,Assembly,1.643
+659,Fabrication,Assembly,1.679
+660,Fabrication,Assembly,1.013
+661,Fabrication,Assembly,0.844
+662,Fabrication,Assembly,0.938
+663,Fabrication,Assembly,0.857
+664,Fabrication,Assembly,0.976
+665,Fabrication,Assembly,1.312
+666,Fabrication,Assembly,1.621
+667,Fabrication,Assembly,1.283
+668,Fabrication,Assembly,1.363
+669,Fabrication,Assembly,0.982
+670,Fabrication,Assembly,1.521
+671,Fabrication,Assembly,1.356
+672,Fabrication,Assembly,1.578
+673,Fabrication,Assembly,1.654
+674,Fabrication,Assembly,1.113
+675,Fabrication,Assembly,0.882
+676,Fabrication,Assembly,1.003
+677,MRO,Lubricant,0.145
+678,MRO,Lubricant,0.088
+679,MRO,Lubricant,0.127
+680,MRO,Lubricant,0.104
+681,MRO,Lubricant,0.068
+682,MRO,Lubricant,0.082
+683,MRO,Lubricant,0.115
+684,MRO,Lubricant,0.117
+685,MRO,Lubricant,0.093
+686,MRO,Lubricant,0.073
+687,MRO,Lubricant,0.122
+688,MRO,Lubricant,0.067
+689,MRO,Lubricant,0.144
+690,MRO,Lubricant,0.069
+691,MRO,Lubricant,0.061
+692,MRO,Lubricant,0.1
+693,MRO,Lubricant,0.102
+694,MRO,Lubricant,0.101
+695,MRO,Lubricant,0.094
+696,MRO,Lubricant,0.149
+697,MRO,Lubricant,0.099
+698,MRO,Lubricant,0.098
+699,MRO,Lubricant,0.092
+700,MRO,Lubricant,0.057
+701,MRO,Lubricant,0.109
+702,MRO,Lubricant,0.073
+703,MRO,Lubricant,0.114
+704,MRO,Lubricant,0.055
+705,MRO,Lubricant,0.148
+706,MRO,Lubricant,0.097
+707,MRO,Lubricant,0.14
+708,MRO,Lubricant,0.098
+709,MRO,Lubricant,0.056
+710,MRO,Lubricant,0.132
+711,MRO,Lubricant,0.115
+712,MRO,Lubricant,0.128
+713,MRO,Lubricant,0.093
+714,MRO,Lubricant,0.114
+715,MRO,Lubricant,0.136
+716,MRO,Lubricant,0.113
+717,MRO,Lubricant,0.085
+718,MRO,Lubricant,0.116
+719,MRO,Lubricant,0.117
+720,MRO,Lubricant,0.146
+721,MRO,Lubricant,0.087
+722,MRO,Grinding Disc,0.093
+723,MRO,Grinding Disc,0.131
+724,MRO,Grinding Disc,0.101
+725,MRO,Grinding Disc,0.124
+726,MRO,Grinding Disc,0.096
+727,MRO,Grinding Disc,0.072
+728,MRO,Grinding Disc,0.125
+729,MRO,Grinding Disc,0.063
+730,MRO,Grinding Disc,0.07
+731,MRO,Grinding Disc,0.113
+732,MRO,Grinding Disc,0.125
+733,MRO,Grinding Disc,0.139
+734,MRO,Grinding Disc,0.077
+735,MRO,Grinding Disc,0.061
+736,MRO,Grinding Disc,0.146
+737,MRO,Grinding Disc,0.065
+738,MRO,Grinding Disc,0.07
+739,MRO,Grinding Disc,0.079
+740,MRO,Grinding Disc,0.103
+741,MRO,Grinding Disc,0.138
+742,MRO,Grinding Disc,0.126
+743,MRO,Grinding Disc,0.121
+744,MRO,Grinding Disc,0.068
+745,MRO,Grinding Disc,0.086
+746,MRO,Grinding Disc,0.098
+747,MRO,Grinding Disc,0.065
+748,MRO,Grinding Disc,0.077
+749,MRO,Grinding Disc,0.081
+750,MRO,Grinding Disc,0.063
+751,MRO,Grinding Disc,0.105
+752,MRO,Grinding Disc,0.121
+753,MRO,Grinding Disc,0.057
+754,MRO,Grinding Disc,0.098
+755,MRO,Grinding Disc,0.128
+756,MRO,Grinding Disc,0.125
+757,MRO,Grinding Disc,0.132
+758,MRO,Grinding Disc,0.095
+759,MRO,Grinding Disc,0.132
+760,MRO,Grinding Disc,0.074
+761,MRO,Grinding Disc,0.086
+762,MRO,Grinding Disc,0.068
+763,MRO,Grinding Disc,0.097
+764,MRO,Grinding Disc,0.089
+765,MRO,Grinding Disc,0.074
+766,MRO,Grinding Disc,0.125
+767,MRO,Cutting Fluid,0.077
+768,MRO,Cutting Fluid,0.063
+769,MRO,Cutting Fluid,0.094
+770,MRO,Cutting Fluid,0.08
+771,MRO,Cutting Fluid,0.087
+772,MRO,Cutting Fluid,0.074
+773,MRO,Cutting Fluid,0.126
+774,MRO,Cutting Fluid,0.143
+775,MRO,Cutting Fluid,0.1
+776,MRO,Cutting Fluid,0.114
+777,MRO,Cutting Fluid,0.137
+778,MRO,Cutting Fluid,0.15
+779,MRO,Cutting Fluid,0.111
+780,MRO,Cutting Fluid,0.139
+781,MRO,Cutting Fluid,0.141
+782,MRO,Cutting Fluid,0.129
+783,MRO,Cutting Fluid,0.096
+784,MRO,Cutting Fluid,0.058
+785,MRO,Cutting Fluid,0.052
+786,MRO,Cutting Fluid,0.098
+787,MRO,Cutting Fluid,0.099
+788,MRO,Cutting Fluid,0.091
+789,MRO,Cutting Fluid,0.107
+790,MRO,Cutting Fluid,0.105
+791,MRO,Cutting Fluid,0.134
+792,MRO,Cutting Fluid,0.061
+793,MRO,Cutting Fluid,0.073
+794,MRO,Cutting Fluid,0.129
+795,MRO,Cutting Fluid,0.135
+796,MRO,Cutting Fluid,0.149
+797,MRO,Cutting Fluid,0.137
+798,MRO,Cutting Fluid,0.139
+799,MRO,Cutting Fluid,0.081
+800,MRO,Cutting Fluid,0.09
+801,MRO,Cutting Fluid,0.077
+802,MRO,Cutting Fluid,0.111
+803,MRO,Cutting Fluid,0.144
+804,MRO,Cutting Fluid,0.084
+805,MRO,Cutting Fluid,0.106
+806,MRO,Seal,0.08
+807,MRO,Seal,0.067
+808,MRO,Seal,0.07
+809,MRO,Seal,0.056
+810,MRO,Seal,0.145
+811,MRO,Seal,0.09
+812,MRO,Seal,0.133
+813,MRO,Seal,0.118
+814,MRO,Seal,0.069
+815,MRO,Seal,0.068
+816,MRO,Seal,0.131
+817,MRO,Seal,0.076
+818,MRO,Seal,0.141
+819,MRO,Seal,0.064
+820,MRO,Seal,0.118
+821,MRO,Seal,0.131
+822,MRO,Seal,0.074
+823,MRO,Seal,0.078
+824,MRO,Seal,0.146
+825,MRO,Seal,0.076
+826,MRO,Seal,0.093
+827,MRO,Seal,0.093
+828,MRO,Seal,0.075
+829,MRO,Seal,0.128
+830,MRO,Seal,0.127
+831,MRO,Seal,0.088
+832,MRO,Seal,0.134
+833,MRO,Seal,0.071
+834,MRO,Seal,0.05
+835,MRO,Seal,0.107
+836,MRO,Seal,0.149
+837,MRO,Seal,0.054
+838,MRO,Seal,0.071
+839,MRO,Seal,0.102
+840,MRO,Seal,0.131
+841,MRO,Seal,0.059
+842,MRO,Seal,0.09
+843,MRO,Seal,0.125
+844,MRO,Seal,0.087
+845,MRO,Seal,0.069
+846,MRO,Seal,0.07
+847,MRO,Seal,0.091
+848,MRO,Fastener,0.136
+849,MRO,Fastener,0.114
+850,MRO,Fastener,0.119
+851,MRO,Fastener,0.148
+852,MRO,Fastener,0.091
+853,MRO,Fastener,0.09
+854,MRO,Fastener,0.142
+855,MRO,Fastener,0.075
+856,MRO,Fastener,0.123
+857,MRO,Fastener,0.125
+858,MRO,Fastener,0.06
+859,MRO,Fastener,0.097
+860,MRO,Fastener,0.07
+861,MRO,Fastener,0.069
+862,MRO,Fastener,0.096
+863,MRO,Fastener,0.079
+864,MRO,Fastener,0.13
+865,MRO,Fastener,0.141
+866,MRO,Fastener,0.13
+867,MRO,Fastener,0.077
+868,MRO,Fastener,0.077
+869,MRO,Fastener,0.075
+870,MRO,Fastener,0.064
+871,MRO,Fastener,0.144
+872,MRO,Fastener,0.09
+873,MRO,Fastener,0.072
+874,MRO,Fastener,0.135
+875,MRO,Fastener,0.09
+876,MRO,Fastener,0.054
+877,MRO,Fastener,0.066
+878,MRO,Fastener,0.114
+879,MRO,Fastener,0.128
+880,MRO,Fastener,0.071
+881,MRO,Fastener,0.142
+882,MRO,Fastener,0.135
+883,MRO,Fastener,0.135
+884,MRO,Fastener,0.073
+885,MRO,Fastener,0.055
+886,MRO,Fastener,0.137
+887,MRO,Fastener,0.081
+888,MRO,Fastener,0.112
+889,MRO,Fastener,0.126
+890,MRO,Fastener,0.063
+891,MRO,Fastener,0.128
+892,MRO,Fastener,0.144
+893,Electrical,Motor,0.737
+894,Electrical,Motor,0.565
+895,Electrical,Motor,0.826
+896,Electrical,Motor,0.616
+897,Electrical,Motor,0.747
+898,Electrical,Motor,0.792
+899,Electrical,Motor,0.75
+900,Electrical,Motor,0.473
+901,Electrical,Motor,0.371
+902,Electrical,Motor,0.443
+903,Electrical,Motor,0.602
+904,Electrical,Motor,0.603
+905,Electrical,Motor,0.65
+906,Electrical,Motor,0.537
+907,Electrical,Motor,0.772
+908,Electrical,Motor,0.848
+909,Electrical,Motor,0.448
+910,Electrical,Motor,0.742
+911,Electrical,Motor,0.707
+912,Electrical,Motor,0.614
+913,Electrical,Motor,0.413
+914,Electrical,Motor,0.777
+915,Electrical,Motor,0.876
+916,Electrical,Motor,0.733
+917,Electrical,Motor,0.851
+918,Electrical,Motor,0.891
+919,Electrical,Motor,0.511
+920,Electrical,Motor,0.683
+921,Electrical,Motor,0.584
+922,Electrical,Motor,0.892
+923,Electrical,Motor,0.356
+924,Electrical,Motor,0.547
+925,Electrical,Motor,0.825
+926,Electrical,Motor,0.47
+927,Electrical,Motor,0.773
+928,Electrical,Motor,0.53
+929,Electrical,Motor,0.888
+930,Electrical,Motor,0.83
+931,Electrical,Motor,0.481
+932,Electrical,Motor,0.762
+933,Electrical,Motor,0.502
+934,Electrical,Motor,0.664
+935,Electrical,Motor,0.695
+936,Electrical,Motor,0.798
+937,Electrical,Motor,0.315
+938,Electrical,Motor,0.432
+939,Electrical,Inverter,0.638
+940,Electrical,Inverter,0.597
+941,Electrical,Inverter,0.333
+942,Electrical,Inverter,0.509
+943,Electrical,Inverter,0.819
+944,Electrical,Inverter,0.319
+945,Electrical,Inverter,0.538
+946,Electrical,Inverter,0.867
+947,Electrical,Inverter,0.331
+948,Electrical,Inverter,0.75
+949,Electrical,Inverter,0.455
+950,Electrical,Inverter,0.82
+951,Electrical,Inverter,0.748
+952,Electrical,Inverter,0.831
+953,Electrical,Inverter,0.43
+954,Electrical,Inverter,0.619
+955,Electrical,Inverter,0.768
+956,Electrical,Inverter,0.447
+957,Electrical,Inverter,0.438
+958,Electrical,Inverter,0.316
+959,Electrical,Inverter,0.875
+960,Electrical,Inverter,0.726
+961,Electrical,Inverter,0.681
+962,Electrical,Inverter,0.746
+963,Electrical,Inverter,0.619
+964,Electrical,Inverter,0.586
+965,Electrical,Inverter,0.57
+966,Electrical,Inverter,0.684
+967,Electrical,Inverter,0.421
+968,Electrical,Inverter,0.833
+969,Electrical,Inverter,0.787
+970,Electrical,Inverter,0.51
+971,Electrical,Inverter,0.647
+972,Electrical,Inverter,0.385
+973,Electrical,Inverter,0.883
+974,Electrical,Inverter,0.842
+975,Electrical,Inverter,0.853
+976,Electrical,Inverter,0.499
+977,Electrical,Inverter,0.401
+978,Electrical,Inverter,0.427
+979,Electrical,Inverter,0.354
+980,Electrical,Inverter,0.372
+981,Electrical,Inverter,0.343
+982,Electrical,Inverter,0.894
+983,Electrical,Inverter,0.344
+984,Electrical,Inverter,0.38
+985,Electrical,Inverter,0.796
+986,Electrical,Inverter,0.648
+987,Electrical,Inverter,0.765
+988,Electrical,Inverter,0.679
+989,Electrical,Inverter,0.829
+990,Electrical,Inverter,0.683
+991,Electrical,Inverter,0.613
+992,Electrical,Inverter,0.728
+993,Electrical,Inverter,0.568
+994,Electrical,Inverter,0.508
+995,Electrical,Inverter,0.581
+996,Electrical,Sensor,0.402
+997,Electrical,Sensor,0.778
+998,Electrical,Sensor,0.456
+999,Electrical,Sensor,0.392
+1000,Electrical,Sensor,0.448
+1001,Electrical,Sensor,0.805
+1002,Electrical,Sensor,0.498
+1003,Electrical,Sensor,0.712
+1004,Electrical,Sensor,0.814
+1005,Electrical,Sensor,0.347
+1006,Electrical,Sensor,0.759
+1007,Electrical,Sensor,0.485
+1008,Electrical,Sensor,0.43
+1009,Electrical,Sensor,0.713
+1010,Electrical,Sensor,0.846
+1011,Electrical,Sensor,0.477
+1012,Electrical,Sensor,0.641
+1013,Electrical,Sensor,0.474
+1014,Electrical,Sensor,0.633
+1015,Electrical,Sensor,0.673
+1016,Electrical,Sensor,0.666
+1017,Electrical,Sensor,0.674
+1018,Electrical,Sensor,0.381
+1019,Electrical,Sensor,0.716
+1020,Electrical,Sensor,0.705
+1021,Electrical,Sensor,0.71
+1022,Electrical,Sensor,0.344
+1023,Electrical,Sensor,0.568
+1024,Electrical,Sensor,0.545
+1025,Electrical,Sensor,0.352
+1026,Electrical,Sensor,0.433
+1027,Electrical,Sensor,0.565
+1028,Electrical,Sensor,0.746
+1029,Electrical,Sensor,0.442
+1030,Electrical,Sensor,0.798
+1031,Electrical,Sensor,0.627
+1032,Electrical,Sensor,0.756
+1033,Electrical,Sensor,0.584
+1034,Electrical,Sensor,0.6
+1035,Electrical,Sensor,0.672
+1036,Electrical,Sensor,0.857
+1037,Electrical,Sensor,0.595
+1038,Electrical,Sensor,0.617
+1039,Electrical,Sensor,0.661
+1040,Electrical,Sensor,0.743
+1041,Electrical,Sensor,0.343
+1042,Electrical,Sensor,0.609
+1043,Electrical,Sensor,0.589
+1044,Electrical,Sensor,0.853
+1045,Electrical,Sensor,0.596
+1046,Electrical,Sensor,0.581
+1047,Electrical,Sensor,0.877
+1048,Electrical,Cable Harness,0.409
+1049,Electrical,Cable Harness,0.43
+1050,Electrical,Cable Harness,0.357
+1051,Electrical,Cable Harness,0.3
+1052,Electrical,Cable Harness,0.559
+1053,Electrical,Cable Harness,0.762
+1054,Electrical,Cable Harness,0.74
+1055,Electrical,Cable Harness,0.319
+1056,Electrical,Cable Harness,0.642
+1057,Electrical,Cable Harness,0.393
+1058,Electrical,Cable Harness,0.865
+1059,Electrical,Cable Harness,0.4
+1060,Electrical,Cable Harness,0.676
+1061,Electrical,Cable Harness,0.496
+1062,Electrical,Cable Harness,0.685
+1063,Electrical,Cable Harness,0.547
+1064,Electrical,Cable Harness,0.756
+1065,Electrical,Cable Harness,0.438
+1066,Electrical,Cable Harness,0.843
+1067,Electrical,Cable Harness,0.6
+1068,Electrical,Cable Harness,0.754
+1069,Electrical,Cable Harness,0.81
+1070,Electrical,Cable Harness,0.899
+1071,Electrical,Cable Harness,0.434
+1072,Electrical,Cable Harness,0.472
+1073,Electrical,Cable Harness,0.45
+1074,Electrical,Cable Harness,0.458
+1075,Electrical,Cable Harness,0.649
+1076,Electrical,Cable Harness,0.896
+1077,Electrical,Cable Harness,0.894
+1078,Electrical,Cable Harness,0.616
+1079,Electrical,Cable Harness,0.683
+1080,Electrical,Cable Harness,0.816
+1081,Electrical,Cable Harness,0.86
+1082,Electrical,Cable Harness,0.422
+1083,Electrical,Cable Harness,0.617
+1084,Electrical,Cable Harness,0.8
+1085,Electrical,Cable Harness,0.482
+1086,Electrical,Cable Harness,0.564
+1087,Electrical,Cable Harness,0.891
+1088,Electrical,Cable Harness,0.891
+1089,Electrical,Cable Harness,0.844
+1090,Electrical,Cable Harness,0.779
+1091,Electrical,Cable Harness,0.461
+1092,Electrical,Cable Harness,0.493
+1093,Electrical,Cable Harness,0.628
+1094,Electrical,Cable Harness,0.636
+1095,Electrical,Controller,0.603
+1096,Electrical,Controller,0.682
+1097,Electrical,Controller,0.545
+1098,Electrical,Controller,0.75
+1099,Electrical,Controller,0.5
+1100,Electrical,Controller,0.498
+1101,Electrical,Controller,0.376
+1102,Electrical,Controller,0.413
+1103,Electrical,Controller,0.81
+1104,Electrical,Controller,0.568
+1105,Electrical,Controller,0.437
+1106,Electrical,Controller,0.756
+1107,Electrical,Controller,0.632
+1108,Electrical,Controller,0.313
+1109,Electrical,Controller,0.49
+1110,Electrical,Controller,0.406
+1111,Electrical,Controller,0.694
+1112,Electrical,Controller,0.465
+1113,Electrical,Controller,0.339
+1114,Electrical,Controller,0.333
+1115,Electrical,Controller,0.649
+1116,Electrical,Controller,0.313
+1117,Electrical,Controller,0.809
+1118,Electrical,Controller,0.393
+1119,Electrical,Controller,0.664
+1120,Electrical,Controller,0.567
+1121,Electrical,Controller,0.566
+1122,Electrical,Controller,0.343
+1123,Electrical,Controller,0.782
+1124,Electrical,Controller,0.836
+1125,Electrical,Controller,0.307
+1126,Electrical,Controller,0.407
+1127,Electrical,Controller,0.842
+1128,Electrical,Controller,0.63
+1129,Electrical,Controller,0.39
+1130,Electrical,Controller,0.422
+1131,Electrical,Controller,0.696
+1132,Electrical,Controller,0.735
+1133,Electrical,Controller,0.66
+1134,Electrical,Controller,0.872
+1135,Electrical,Controller,0.596
+1136,Electrical,Controller,0.48
+1137,Electrical,Controller,0.586
+1138,Electrical,Controller,0.516
+1139,Electrical,Controller,0.435
+1140,Electrical,Controller,0.328

@@ -1,0 +1,251 @@
+SupplierID,Name,Country,Category,ISO14001Flag
+1,Perez Solutions S.L.,Spain,Machining,False
+2,Kaya Industrial Sanayi A.Ş.,Turkey,Steel Mill,False
+3,Romano Systems S.p.A.,Italy,MRO,True
+4,Nowak Industrial Sp. z o.o.,Poland,Machining,False
+5,Stan Systems SRL,Romania,MRO,True
+6,Kaczmarek Industrial Sp. z o.o.,Poland,Drivetrain,True
+7,Bakker Precision BV,Netherlands,Logistics,False
+8,Sikorski Precision Sp. z o.o.,Poland,Electronics,False
+9,Perez Components S.L.,Spain,Steel Mill,True
+10,Kaczmarek Steel Sp. z o.o.,Poland,Steel Mill,True
+11,Esposito Systems S.p.A.,Italy,Electronics,True
+12,Nowak Steel Sp. z o.o.,Poland,Drivetrain,True
+13,Wiśniewski Components Sp. z o.o.,Poland,Drivetrain,True
+14,Marin Systems SRL,Romania,Machining,False
+15,Demir Industrial Sanayi A.Ş.,Turkey,Machining,False
+16,Visser Motion BV,Netherlands,Machining,True
+17,Aydin Automation Sanayi A.Ş.,Turkey,Steel Mill,True
+18,Mazur Engineering Sp. z o.o.,Poland,MRO,True
+19,Ozturk Technologies Sanayi A.Ş.,Turkey,MRO,True
+20,Pokorny Systems s.r.o.,Czechia,Steel Mill,True
+21,Ionescu Steel SRL,Romania,Drivetrain,True
+22,Gallo Systems S.p.A.,Italy,Logistics,True
+23,Schroeder Precision GmbH,Germany,Machining,True
+24,Sikorski Automation Sp. z o.o.,Poland,Steel Mill,True
+25,Roberts Motion Ltd,United Kingdom,Steel Mill,True
+26,Sikorski Technologies Sp. z o.o.,Poland,Machining,True
+27,Schroeder Steel GmbH,Germany,MRO,True
+28,Lewandowski Industrial Sp. z o.o.,Poland,MRO,True
+29,Wójcik Systems Sp. z o.o.,Poland,Steel Mill,False
+30,Sikorski Systems Sp. z o.o.,Poland,Steel Mill,True
+31,Nowak Engineering Sp. z o.o.,Poland,Logistics,True
+32,Kaczmarek Technologies Sp. z o.o.,Poland,Machining,True
+33,Lewandowski Automation Sp. z o.o.,Poland,Steel Mill,True
+34,"Yongtai Solutions Co., Ltd.",China,Electronics,True
+35,Lewandowski Systems Sp. z o.o.,Poland,Electronics,False
+36,Demir Steel Sanayi A.Ş.,Turkey,Drivetrain,True
+37,Wiśniewski Automation Sp. z o.o.,Poland,Electronics,True
+38,Kowalski Motion Sp. z o.o.,Poland,Machining,True
+39,Wójcik Motion Sp. z o.o.,Poland,MRO,False
+40,Yilmaz Engineering Sanayi A.Ş.,Turkey,Machining,True
+41,Novak Industrial s.r.o.,Czechia,Logistics,True
+42,Kaczmarek Technologies Systems Sp. z o.o.,Poland,Steel Mill,True
+43,Kamiński Automation Sp. z o.o.,Poland,Steel Mill,True
+44,Prochazka Motion s.r.o.,Czechia,Steel Mill,False
+45,Pokorny Components s.r.o.,Czechia,Machining,True
+46,Kamiński Solutions Sp. z o.o.,Poland,Electronics,True
+47,Perez Automation S.L.,Spain,Steel Mill,True
+48,Krauss Engineering GmbH,Germany,Electronics,True
+49,Kaczmarek Systems Sp. z o.o.,Poland,Machining,True
+50,Schroeder Automation GmbH,Germany,Machining,True
+51,Bakker Precision Systems BV,Netherlands,Electronics,True
+52,Becker Motion GmbH,Germany,Steel Mill,True
+53,Lewandowski Solutions Sp. z o.o.,Poland,Logistics,False
+54,Ferrari Systems S.p.A.,Italy,Steel Mill,False
+55,Sikorski Automation Systems Sp. z o.o.,Poland,Steel Mill,True
+56,Sikorski Engineering Sp. z o.o.,Poland,MRO,False
+57,Mazur Solutions Sp. z o.o.,Poland,Electronics,True
+58,Schroeder Automation Systems GmbH,Germany,Steel Mill,False
+59,Mazur Industrial Sp. z o.o.,Poland,Steel Mill,True
+60,Clark Solutions Inc.,USA,Electronics,False
+61,"Jinhai Steel Co., Ltd.",China,Electronics,True
+62,Wójcik Steel Sp. z o.o.,Poland,MRO,True
+63,Lewandowski Precision Sp. z o.o.,Poland,Steel Mill,False
+64,Nowak Precision Sp. z o.o.,Poland,Electronics,True
+65,Lewandowski Systems Systems Sp. z o.o.,Poland,MRO,True
+66,Kaczmarek Motion Sp. z o.o.,Poland,Drivetrain,False
+67,Zieliński Components Sp. z o.o.,Poland,Machining,False
+68,Anderson Components Inc.,USA,Drivetrain,True
+69,Nowak Systems Sp. z o.o.,Poland,Steel Mill,True
+70,Sahin Automation Sanayi A.Ş.,Turkey,Steel Mill,True
+71,Yildiz Technologies Sanayi A.Ş.,Turkey,Drivetrain,True
+72,Bakker Industrial BV,Netherlands,MRO,False
+73,Wiśniewski Systems Sp. z o.o.,Poland,Steel Mill,False
+74,Zieliński Precision Sp. z o.o.,Poland,Machining,True
+75,Popa Motion SRL,Romania,Electronics,True
+76,"Yongtai Solutions Systems Co., Ltd.",China,Steel Mill,True
+77,Balaz Precision s.r.o.,Slovakia,Steel Mill,True
+78,Lewandowski Automation Systems Sp. z o.o.,Poland,Electronics,True
+79,"Haitong Motion Co., Ltd.",China,MRO,True
+80,Gomez Automation S.L.,Spain,Steel Mill,True
+81,Visser Steel BV,Netherlands,MRO,True
+82,Wagner Solutions GmbH,Germany,Logistics,False
+83,Dvorak Systems s.r.o.,Czechia,Machining,True
+84,Kamiński Solutions Systems Sp. z o.o.,Poland,Logistics,False
+85,Sikorski Technologies Systems Sp. z o.o.,Poland,Steel Mill,True
+86,Romano Solutions S.p.A.,Italy,MRO,True
+87,Wójcik Components Sp. z o.o.,Poland,Drivetrain,True
+88,Bakker Technologies BV,Netherlands,Machining,True
+89,"Xinghua Components Co., Ltd.",China,Steel Mill,True
+90,Sikorski Automation Technologies Sp. z o.o.,Poland,Steel Mill,True
+91,Kaczmarek Industrial Systems Sp. z o.o.,Poland,Steel Mill,True
+92,Pokorny Solutions s.r.o.,Czechia,Logistics,True
+93,Lewandowski Systems Technologies Sp. z o.o.,Poland,Drivetrain,False
+94,Jones Motion Ltd,United Kingdom,Steel Mill,True
+95,Wójcik Technologies Sp. z o.o.,Poland,Steel Mill,True
+96,Mazur Engineering Systems Sp. z o.o.,Poland,Steel Mill,True
+97,Schroeder Systems GmbH,Germany,Steel Mill,False
+98,Zieliński Steel Sp. z o.o.,Poland,Electronics,True
+99,Smith Automation Ltd,United Kingdom,Electronics,False
+100,Bos Precision BV,Netherlands,MRO,True
+101,Diaz Precision S.L.,Spain,Steel Mill,True
+102,Wagner Components GmbH,Germany,MRO,True
+103,Kowalski Industrial Sp. z o.o.,Poland,Logistics,True
+104,Wójcik Precision Sp. z o.o.,Poland,Drivetrain,True
+105,Nowak Components Sp. z o.o.,Poland,Machining,True
+106,Lewandowski Components Sp. z o.o.,Poland,Machining,True
+107,Lewandowski Steel Sp. z o.o.,Poland,Electronics,False
+108,Weber Components GmbH,Germany,Machining,True
+109,Johnson Technologies Ltd,United Kingdom,Logistics,False
+110,Krauss Components GmbH,Germany,Logistics,True
+111,Russo Automation S.p.A.,Italy,Steel Mill,True
+112,Taylor Precision Ltd,United Kingdom,Steel Mill,True
+113,Wójcik Industrial Sp. z o.o.,Poland,MRO,True
+114,"Guanghua Automation Co., Ltd.",China,Steel Mill,False
+115,Bakker Motion BV,Netherlands,Drivetrain,False
+116,Gomez Systems S.L.,Spain,Electronics,True
+117,Dvorak Motion s.r.o.,Czechia,Steel Mill,True
+118,Lewandowski Automation Technologies Sp. z o.o.,Poland,Drivetrain,True
+119,Sikorski Systems Systems Sp. z o.o.,Poland,Drivetrain,False
+120,Martinez Engineering S.L.,Spain,Drivetrain,True
+121,"Jinhai Industrial Co., Ltd.",China,Steel Mill,True
+122,Sikorski Industrial Sp. z o.o.,Poland,Logistics,True
+123,Sanchez Motion S.L.,Spain,Logistics,True
+124,"Xinghua Systems Co., Ltd.",China,MRO,True
+125,Nowak Components Systems Sp. z o.o.,Poland,Machining,True
+126,Kamiński Technologies Sp. z o.o.,Poland,Electronics,True
+127,Sikorski Technologies Technologies Sp. z o.o.,Poland,MRO,True
+128,"Jinhai Motion Co., Ltd.",China,MRO,True
+129,Kowalski Automation Sp. z o.o.,Poland,Electronics,True
+130,"Jinlong Components Co., Ltd.",China,Steel Mill,False
+131,Horvath Engineering s.r.o.,Slovakia,Steel Mill,True
+132,Yildiz Precision Sanayi A.Ş.,Turkey,Steel Mill,True
+133,Jansen Components BV,Netherlands,Machining,True
+134,Nowak Steel Systems Sp. z o.o.,Poland,Machining,False
+135,Gomez Steel S.L.,Spain,Steel Mill,False
+136,Smith Industrial Ltd,United Kingdom,Machining,False
+137,Zieliński Motion Sp. z o.o.,Poland,Electronics,True
+138,Ionescu Motion SRL,Romania,Steel Mill,False
+139,Sikorski Industrial Systems Sp. z o.o.,Poland,Steel Mill,True
+140,Gomez Automation Systems S.L.,Spain,Steel Mill,False
+141,Popescu Steel SRL,Romania,Steel Mill,True
+142,Wiśniewski Components Systems Sp. z o.o.,Poland,Logistics,False
+143,Wiśniewski Engineering Sp. z o.o.,Poland,MRO,True
+144,Smit Components BV,Netherlands,Electronics,False
+145,Ozturk Motion Sanayi A.Ş.,Turkey,MRO,True
+146,Kowalski Technologies Sp. z o.o.,Poland,Steel Mill,True
+147,Costa Components S.p.A.,Italy,Logistics,False
+148,Sikorski Industrial Technologies Sp. z o.o.,Poland,MRO,True
+149,Kamiński Steel Sp. z o.o.,Poland,MRO,False
+150,Novak Solutions s.r.o.,Slovakia,Steel Mill,True
+151,Zieliński Technologies Sp. z o.o.,Poland,Electronics,True
+152,Lewandowski Systems Engineering Sp. z o.o.,Poland,Steel Mill,True
+153,Robinson Automation Inc.,USA,Drivetrain,False
+154,Toth Motion s.r.o.,Slovakia,Drivetrain,True
+155,"Longwei Solutions Co., Ltd.",China,Machining,True
+156,Yilmaz Solutions Sanayi A.Ş.,Turkey,Logistics,False
+157,Nowak Components Technologies Sp. z o.o.,Poland,Drivetrain,True
+158,Mazur Components Sp. z o.o.,Poland,Steel Mill,True
+159,Lewandowski Motion Sp. z o.o.,Poland,Machining,True
+160,Balaz Motion s.r.o.,Slovakia,Logistics,True
+161,Wójcik Technologies Systems Sp. z o.o.,Poland,Steel Mill,True
+162,Mazur Solutions Systems Sp. z o.o.,Poland,Steel Mill,True
+163,Wiśniewski Motion Sp. z o.o.,Poland,Steel Mill,True
+164,Novak Technologies s.r.o.,Czechia,MRO,True
+165,Gheorghe Automation SRL,Romania,Machining,False
+166,Fischer Technologies GmbH,Germany,Machining,True
+167,Lewandowski Systems A Sp. z o.o.,Poland,Drivetrain,False
+168,Johnson Industrial Ltd,United Kingdom,Electronics,True
+169,Krauss Engineering Systems GmbH,Germany,MRO,True
+170,Jansen Industrial BV,Netherlands,Drivetrain,True
+171,Nowak Solutions Sp. z o.o.,Poland,MRO,True
+172,Kamiński Steel Systems Sp. z o.o.,Poland,Machining,True
+173,Mazur Solutions Technologies Sp. z o.o.,Poland,MRO,True
+174,Meijer Automation BV,Netherlands,MRO,True
+175,Nowak Automation Sp. z o.o.,Poland,Logistics,True
+176,Kamiński Automation Systems Sp. z o.o.,Poland,Electronics,False
+177,Sanchez Technologies S.L.,Spain,Machining,True
+178,Kaya Steel Sanayi A.Ş.,Turkey,Machining,True
+179,Mazur Steel Sp. z o.o.,Poland,Steel Mill,True
+180,Kamiński Components Sp. z o.o.,Poland,Steel Mill,False
+181,Anderson Steel Inc.,USA,Drivetrain,False
+182,Clark Solutions Systems Inc.,USA,Steel Mill,True
+183,Kowalski Steel Sp. z o.o.,Poland,Steel Mill,False
+184,Mazur Industrial Systems Sp. z o.o.,Poland,Drivetrain,True
+185,Zieliński Systems Sp. z o.o.,Poland,Electronics,True
+186,Wójcik Components Systems Sp. z o.o.,Poland,Machining,True
+187,Novak Solutions Systems s.r.o.,Czechia,Drivetrain,True
+188,Wójcik Motion Systems Sp. z o.o.,Poland,MRO,True
+189,Ionescu Steel Systems SRL,Romania,Logistics,False
+190,Kowalski Automation Systems Sp. z o.o.,Poland,Machining,True
+191,Zieliński Precision Systems Sp. z o.o.,Poland,MRO,True
+192,Gallo Technologies S.p.A.,Italy,MRO,True
+193,"Jinlong Industrial Co., Ltd.",China,Drivetrain,False
+194,Kowalski Engineering Sp. z o.o.,Poland,Drivetrain,True
+195,Kamiński Technologies Systems Sp. z o.o.,Poland,Machining,False
+196,Kovac Engineering s.r.o.,Slovakia,Steel Mill,True
+197,Kaczmarek Automation Sp. z o.o.,Poland,Steel Mill,False
+198,Kowalski Steel Systems Sp. z o.o.,Poland,Machining,True
+199,Lewandowski Components Systems Sp. z o.o.,Poland,Machining,True
+200,Balaz Technologies s.r.o.,Slovakia,Electronics,True
+201,Sikorski Solutions Sp. z o.o.,Poland,MRO,False
+202,Russo Automation Systems S.p.A.,Italy,Electronics,False
+203,Thomas Motion Ltd,United Kingdom,Steel Mill,False
+204,Kowalski Industrial Systems Sp. z o.o.,Poland,Drivetrain,True
+205,"Guanghua Solutions Co., Ltd.",China,Electronics,True
+206,Esposito Precision S.p.A.,Italy,MRO,True
+207,Kaczmarek Industrial Technologies Sp. z o.o.,Poland,Steel Mill,False
+208,Becker Steel GmbH,Germany,Electronics,True
+209,Hughes Solutions Inc.,USA,Machining,False
+210,Lewandowski Solutions Systems Sp. z o.o.,Poland,Drivetrain,False
+211,"Xinyi Steel Co., Ltd.",China,MRO,True
+212,Sikorski Systems Technologies Sp. z o.o.,Poland,Steel Mill,True
+213,Aydin Engineering Sanayi A.Ş.,Turkey,MRO,False
+214,Smith Automation Systems Ltd,United Kingdom,MRO,False
+215,Zieliński Precision Technologies Sp. z o.o.,Poland,Steel Mill,True
+216,Brown Components Ltd,United Kingdom,Steel Mill,True
+217,Ozturk Precision Sanayi A.Ş.,Turkey,Steel Mill,True
+218,"Xinyi Technologies Co., Ltd.",China,Logistics,True
+219,Thomas Systems Ltd,United Kingdom,Machining,False
+220,Wójcik Systems Systems Sp. z o.o.,Poland,Drivetrain,True
+221,Mazur Precision Sp. z o.o.,Poland,Electronics,True
+222,Kaczmarek Automation Systems Sp. z o.o.,Poland,Machining,True
+223,de Vries Steel BV,Netherlands,Electronics,True
+224,Kamiński Industrial Sp. z o.o.,Poland,Steel Mill,True
+225,Hughes Industrial Inc.,USA,MRO,True
+226,Mazur Systems Sp. z o.o.,Poland,Electronics,True
+227,Kowalski Industrial Technologies Sp. z o.o.,Poland,Machining,True
+228,Lewandowski Components Technologies Sp. z o.o.,Poland,Steel Mill,True
+229,Szabo Technologies s.r.o.,Slovakia,Machining,True
+230,"Xinyi Solutions Co., Ltd.",China,MRO,True
+231,Sikorski Systems Engineering Sp. z o.o.,Poland,Electronics,True
+232,Wiśniewski Systems Systems Sp. z o.o.,Poland,Electronics,True
+233,Esposito Steel S.p.A.,Italy,Drivetrain,True
+234,Nowak Precision Systems Sp. z o.o.,Poland,Steel Mill,True
+235,Kamiński Systems Sp. z o.o.,Poland,MRO,True
+236,Novak Industrial Systems s.r.o.,Czechia,MRO,False
+237,Zieliński Solutions Sp. z o.o.,Poland,Drivetrain,False
+238,Demir Solutions Sanayi A.Ş.,Turkey,MRO,False
+239,Garcia Solutions S.L.,Spain,Steel Mill,True
+240,Lewandowski Solutions Technologies Sp. z o.o.,Poland,Logistics,False
+241,Keller Steel GmbH,Germany,Machining,True
+242,"Jinlong Engineering Co., Ltd.",China,Steel Mill,True
+243,Kaczmarek Steel Systems Sp. z o.o.,Poland,Steel Mill,True
+244,Hoffmann Steel GmbH,Germany,Machining,True
+245,Nowak Solutions Systems Sp. z o.o.,Poland,Machining,True
+246,Celik Steel Sanayi A.Ş.,Turkey,Steel Mill,True
+247,Zieliński Steel Systems Sp. z o.o.,Poland,Machining,True
+248,Sikorski Technologies Engineering Sp. z o.o.,Poland,MRO,True
+249,Becker Technologies GmbH,Germany,Drivetrain,True
+250,Kowalski Technologies Systems Sp. z o.o.,Poland,MRO,False
